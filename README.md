@@ -46,3 +46,7 @@ Built with <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-ba
 
 
 ## License
+
+MIT <br>
+year: 2024 <br>
+name: Skyvue - Satellite Tracking Graphical Interface
