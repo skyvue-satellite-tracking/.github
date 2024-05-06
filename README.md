@@ -8,7 +8,6 @@
   - Project Purpose
   - Front-end
   - Back-end
-  - License
 
 <br>
 
@@ -43,10 +42,3 @@ Built with <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-ba
 
 ![image](https://github.com/skyvue-satellite-tracking/README/assets/104923248/c2c95692-740f-47d4-b7a2-936c14f30474)
 
-
-
-## License
-
-MIT <br>
-year: 2024 <br>
-name: Skyvue - Satellite Tracking Graphical Interface
