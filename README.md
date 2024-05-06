@@ -14,10 +14,11 @@
 
 ## Project Purpose
 
-skyVue is being designed to become a intuitive and accessible satellite tracking web application, that requires net zero prior knowledge on the subject, at the same time being a complete 
-collection of tools which unfolds gradually as the user's explorer the interface. Also, it is a hub for finding sellected content for learning about satellite tracking.
+skyVue is being designed to become a intuitive and accessible satellite tracking web application, that requires zero prior knowledge on the subject. At the same time, it is going to offer a complete suit of tools which unfold gradually as the users explore its options. 
 
-When the project is refined enough, I intend to release a more generall template for creating tracking systems with graphical interfaces. 
+ Moreover, it serves as a central hub for curated educational content on satellite tracking. 
+ 
+ Once refined, I plan to release a generalized template for creating tracking systems with graphical interfaces.
 
 ## Front-end <a href="https://skyvue.space">![website](https://img.shields.io/badge/https://skyvue.space-blue)</a>
 
